@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/tech_center/!svn/ver/143/Virtualization%20project/Virtual%20Machine/vrm/src/main/resources/jeecg/template
+END
+jspTemplate.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/tech_center/!svn/ver/143/Virtualization%20project/Virtual%20Machine/vrm/src/main/resources/jeecg/template/jspTemplate.ftl
+END
+jsTemplate.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/tech_center/!svn/ver/143/Virtualization%20project/Virtual%20Machine/vrm/src/main/resources/jeecg/template/jsTemplate.ftl
+END
+MapperTemplate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/tech_center/!svn/ver/143/Virtualization%20project/Virtual%20Machine/vrm/src/main/resources/jeecg/template/MapperTemplate.xml
+END
+ControllerTemplate.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/tech_center/!svn/ver/143/Virtualization%20project/Virtual%20Machine/vrm/src/main/resources/jeecg/template/ControllerTemplate.ftl
+END
+PageTemplate.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/tech_center/!svn/ver/143/Virtualization%20project/Virtual%20Machine/vrm/src/main/resources/jeecg/template/PageTemplate.ftl
+END
+DaoTemplate.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/tech_center/!svn/ver/143/Virtualization%20project/Virtual%20Machine/vrm/src/main/resources/jeecg/template/DaoTemplate.ftl
+END
+EntityTemplate.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/tech_center/!svn/ver/143/Virtualization%20project/Virtual%20Machine/vrm/src/main/resources/jeecg/template/EntityTemplate.ftl
+END
+ServiceTemplate.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/tech_center/!svn/ver/143/Virtualization%20project/Virtual%20Machine/vrm/src/main/resources/jeecg/template/ServiceTemplate.ftl
+END
